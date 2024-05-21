@@ -2,7 +2,8 @@
 <p align="center">
   <img src="image/bochra-ben_slimene_gif-github.gif" alt="Bochra Ben Slimene">
 </p>
-# About Me
+
+### About Me
 
 ## Professional Experience
 
