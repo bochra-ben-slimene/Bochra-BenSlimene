@@ -1,6 +1,7 @@
-![Waving Hand](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) Hey there! I'm Bochra Ben Slimene 
-![Bochra Ben Slimen](image/bochra-ben_slimene_gif-github.gif)
-
+<h1 align="center">👋 Hey there! I'm Bochra Ben Slimene</h1>
+<p align="center">
+  <img src="image/bochra-ben_slimene_gif-github.gif" alt="Bochra Ben Slimene">
+</p>
 # About Me
 
 ## Professional Experience
