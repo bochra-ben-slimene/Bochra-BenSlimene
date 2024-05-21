@@ -1,4 +1,4 @@
-# Hey there! I'm Bochra Ben Slimene 
+# ![Waving Hand] Hey there! I'm Bochra Ben Slimene 
 ![Bochra Ben Slimen](image/bochra-ben_slimene_gif-github.gif)
 
 # About Me
@@ -20,5 +20,5 @@ With my passion for frontend development and my commitment to excellence, I am c
 
 Feel free to contact me for any opportunities or collaborations. You can reach me at:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: [email](mailto:benslimen.bochra@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/bochra-ben-slimene)
