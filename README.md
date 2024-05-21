@@ -22,5 +22,5 @@ With my passion for frontend development and my commitment to excellence, I am c
 
 Feel free to contact me for any opportunities or collaborations. You can reach me at:
 
-- **Email**: [email](mailto:benslimen.bochra@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/bochra-ben-slimene)
+- **Email**: [your.email@example.com](mailto:benslimen.bochra@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/bochra-ben-slimene)
